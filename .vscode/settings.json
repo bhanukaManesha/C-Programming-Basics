@@ -1,3 +1,4 @@
 {
-    "editor.fontSize": 18
+    "editor.fontSize": 18,
+    "code-runner.runInTerminal": true
 }
